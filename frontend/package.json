@@ -45,7 +45,7 @@
     "@stripe/stripe-js": "^1.54.1",
     "@tabler/icons-react": "^3.35.0",
     "@tanstack/react-query": "5.104.5",
-    "@tanstack/react-table": "^8.21.3",
+    "@tanstack/react-table": "^9.3.1",
     "@tiptap/core": "^3.3.0",
     "@tiptap/extension-bubble-menu": "^3.23.6",
     "@tiptap/extension-floating-menu": "^3.23.6",
